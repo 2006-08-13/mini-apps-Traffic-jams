@@ -1,5 +1,4 @@
-### Вас привествует новый сервис 'Пробки'
-### Работает на яндекс карте. 
+
 <html lang="en">
 	<head>
 			<title>VK Mini App Boilerplate</title>
